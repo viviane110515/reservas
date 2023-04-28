@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+}
+#topo{
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    
+}
+
+#corpo{
+    background-color: lightgreen;
+    height: 750px;
+
+}
+
+#rodape{
+    background-color: rgb(0, 0, 0);
+    height: 150px;
+}
